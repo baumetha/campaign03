@@ -2,7 +2,6 @@ package edu.isu.cs.cs3308;
 
 import edu.isu.cs.cs3308.structures.BinaryTree;
 import edu.isu.cs.cs3308.structures.Node;
-import edu.isu.cs.cs3308.structures.impl.BinarySearchTree;
 import edu.isu.cs.cs3308.structures.impl.LinkedBinaryTree;
 import edu.isu.cs.cs3308.traversals.BreadthFirstTraversal;
 import edu.isu.cs.cs3308.traversals.InOrderTraversal;
